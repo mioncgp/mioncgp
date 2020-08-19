@@ -1,5 +1,3 @@
-## Hi there, I'm Michael!
-
 <br />
 
 ### Languages and Tools:
